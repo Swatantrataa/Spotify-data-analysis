@@ -1,6 +1,6 @@
-# Spotify-data-analysis
+# Spotify Data Analysis
 
-This project analyzes Spotify data to understand music trends, user preferences, and track performance.
+This project analyzes Spotify data to understand music trends, user preferences, and track performance using Python.
 
 ## Features
 - Data cleaning and preprocessing
@@ -10,6 +10,9 @@ This project analyzes Spotify data to understand music trends, user preferences,
 ## Tools Used
 - Python
 - Pandas / NumPy
+
+## Dataset
+The dataset contains information about tracks, artists, and music attributes used for analysis.
 
 ## Insights
 - Popular genres
